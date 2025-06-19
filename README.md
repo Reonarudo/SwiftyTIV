@@ -32,7 +32,7 @@ Add SwiftyTIV to your project's Package.swift:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/SwiftyTIV", from: "1.0.0")
+    .package(url: "https://github.com/Reonarudo/SwiftyTIV", from: "1.0.0")
 ]
 ```
 
